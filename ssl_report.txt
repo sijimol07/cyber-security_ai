@@ -1,0 +1,2 @@
+Host: example.com
+Certificate Expiry: 2026-08-29 21:41:26

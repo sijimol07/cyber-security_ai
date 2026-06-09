@@ -1,0 +1,3 @@
+Final URL: http://www.google.com/
+Status Code: 200
+HTTPS redirect NOT enabled

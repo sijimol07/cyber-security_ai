@@ -1,0 +1,10 @@
+{
+    "status_code": 200,
+    "server": "cloudflare",
+    "security_headers": {
+        "Content-Security-Policy": "Missing",
+        "Strict-Transport-Security": "Missing",
+        "X-Frame-Options": "Missing",
+        "X-Content-Type-Options": "Missing"
+    }
+}
